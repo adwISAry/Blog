@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\blogtask25thdecember.props" />
+</Project>
